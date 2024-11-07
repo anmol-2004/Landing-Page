@@ -1,7 +1,3 @@
-Certainly! Below is a sample description that you can include in the `README.md` file for your **Beverage Company Landing Page** project. It highlights the key features and provides context for your landing page.
-
----
-
 ### Beverage Company Landing Page
 
 **Description:**
